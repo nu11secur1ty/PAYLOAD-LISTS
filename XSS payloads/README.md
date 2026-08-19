@@ -1,7 +1,5 @@
 # XSS payloads
 
-**2691 XSS payloads by @payloadbox:**
-
 ```js
 "-prompt(8)-"
 '-prompt(8)-'
