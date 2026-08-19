@@ -1,5 +1,4 @@
 # XSS payloads
-Credit: https://github.com/payloadbox/xss-payload-list
 
 **2691 XSS payloads by @payloadbox:**
 
